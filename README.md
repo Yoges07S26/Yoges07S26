@@ -87,47 +87,6 @@ Programming challenges and competitive problem-solving practice.
 </details>
 
 <hr>
-
-<!-- ================= PROFILE CODER STATS ================= -->
-<div align="center">
-<h2>📊 Live Profile Analytics</h2>
-</div>
-
-<p align="center">
-<img src="https://vercel.app" alt="Stats Summary" width="48%" />
-<img src="https://vercel.app" alt="Top Languages Summary" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://herokuapp.com" alt="Activity Streak Tracker" width="97%" />
-</p>
-
-<hr>
-
-<!-- ================= LEETCODE TRACKER ================= -->
-<div align="center">
-<h2>💡 Competitive Programming Metrics</h2>
-</div>
-
-<p align="center">
-<img src="https://jacoblin.cool" alt="LeetCode Sync Card" width="85%" />
-</p>
-
-<hr>
-
-<!-- ================= ISOMETRIC CONTRIBUTION INTERACTIVE MATRIX ================= -->
-<div align="center">
-<h2>📦 Volumetric Development Timelines</h2>
-</div>
-
-<p align="center">
-<img src="https://vercel.app" alt="3D Profile Map Grid" width="85%" />
-</p>
-
-<br>
-
-<hr>
-
 <!-- ================= FOOTER ================= -->
 <div align="center">
 <p>© 2026 Yoges07S26 • Built with automated vector styling components</p>
