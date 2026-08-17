@@ -1,366 +1,110 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Developer Ecosystem Matrix - Portfolio</title>
-    <style>
-        :root {
-            --bg-color: #0d0c0b;
-            --card-bg: rgba(18, 16, 15, 0.90);
-            --card-border: #3d2f28;
-            --text-main: #dfd2c6;
-            --text-muted: #9e8e82;
-            --accent-gold: #cfa86b;
-            --shadow-glow: rgba(207, 168, 107, 0.12);
-        }
+# ⚔️ Yoges07S26 | Software Developer
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            /* Blends the specific wallpaper link provided with a dark vignette overlay for readability */
-            background: linear-gradient(rgba(13, 12, 11, 0.82), rgba(13, 12, 11, 0.90)), 
-                        url('https://wallpapercave.com/wp/wp1870491.jpg') no-repeat center center fixed;
-            background-size: cover;
-            color: var(--text-main);
-            margin: 0;
-            padding: 40px 20px;
-            display: flex;
-            justify-content: center;
-        }
+<p align="center">
+  <img src="https://wallpapercave.com" width="100%" alt="Assassin's Creed Landscape Layout" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.7);" />
+</p>
 
-        .container {
-            max-width: 1200px;
-            width: 100%;
-        }
+<p align="center">
+  <strong>A comprehensive development matrix exploring core application frameworks, optimized database schemas, and clean architectural design patterns.</strong>
+</p>
 
-        /* Header Styles */
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-            background: rgba(0, 0, 0, 0.4);
-            padding: 30px;
-            border-radius: 12px;
-            border: 1px solid rgba(207, 168, 107, 0.15);
-            backdrop-filter: blur(4px);
-        }
+<p align="center">
+  <a href="https://github.com"><img src="https://shields.io" alt="Workspace Status" /></a>
+  <img src="https://shields.io" alt="Ecosystem Matrix" />
+  <img src="https://shields.io" alt="Current Deployment" />
+</p>
 
-        .logo-placeholder {
-            font-size: 2.2rem;
-            font-weight: bold;
-            letter-spacing: 3px;
-            text-transform: uppercase;
-            color: #ffffff;
-            display: inline-flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 15px;
-        }
+---
 
-        header p {
-            color: var(--text-muted);
-            font-size: 1.1rem;
-            max-width: 750px;
-            margin: 0 auto;
-            line-height: 1.6;
-        }
+## 🚀 Featured Projects
 
-        hr {
-            border: 0;
-            height: 1px;
-            background: linear-gradient(to right, transparent, var(--card-border), transparent);
-            margin: 40px 0;
-        }
+### 🧠 ProblemSolving
+A modular collection of algorithmic computational puzzles and foundational logical program execution flows.
+*   **Focus Matrix:** Data Structures (DSA) • Algorithms • Execution Logic
+*   **Technologies:** `C` • `C++` • `Java` • `Python`
 
-        h2 {
-            text-align: center;
-            font-size: 1.8rem;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            margin-bottom: 30px;
-            color: #ffffff;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.7);
-        }
+### 🎮 GameDesign
+Game design architecture experiments focused on core rendering principles, frame execution blocks, and standalone object states.
+*   **Focus Matrix:** Game Loop Design • Object-Oriented Frameworks • Interaction Loops
+*   **Technologies:** `Java`
 
-        /* Featured Projects Grid */
-        .project-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-            gap: 24px;
-            margin-bottom: 40px;
-        }
+### 🗄️ Basic-Sql
+Production-safe structured query assets built to investigate index management strategies, transactional joins, and data normalization.
+*   **Focus Matrix:** Query Tuning • Indexing Blueprints • Schema Architecture
+*   **Technologies:** `MySQL`
 
-        .project-card {
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
-            border-radius: 8px;
-            padding: 24px;
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), inset 0 0 20px var(--shadow-glow);
-            transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            backdrop-filter: blur(3px);
-        }
+### 💡 LeetCode
+An ongoing structural benchmark repository targeting clean algorithmic runtime profiles, memory efficiency boundaries, and defensive edge-case testing.
+*   **Focus Matrix:** Competitive Optimization • Data Structures • Micro-Optimizations
+*   **Technologies:** `Java` • `C++` • `Python`
 
-        .project-card:hover {
-            transform: translateY(-4px);
-            border-color: var(--accent-gold);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7), 0 0 15px rgba(207, 168, 107, 0.25);
-        }
+### 🚔 Criminal Management System
+An enterprise-inspired record tracking application engineered to safely isolate, index, and secure operational records.
+*   **Core Pipelines:** 
+    * 📂 Criminal history lifecycle logs
+    * 📑 Automatic case distribution queues
+    * 🔄 Dynamic case workflow modules
+    * 🔍 Parameterized secure query searching
+*   **Technologies:** `Java` • `MySQL`
 
-        .project-card h3 {
-            margin-top: 0;
-            font-size: 1.35rem;
-            color: var(--accent-gold);
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            letter-spacing: 0.5px;
-        }
+### 🏋️ Fitness Application
+A comprehensive workout telemetry logger built to analyze and validate real-time activity tracking modules.
+*   **Core Pipelines:**
+    * 👤 User registration & profile matrices
+    * ⚡ Real-time activity tracking blocks
+    * 🔥 Caloric boundary threshold verification
+    * 🎯 Target performance metrics validation
+*   **Technologies:** `Java` • `MySQL`
 
-        .project-card p {
-            font-size: 0.95rem;
-            line-height: 1.6;
-            color: var(--text-main);
-            margin-bottom: 12px;
-        }
+### 📊 DAA (Design & Analysis of Algorithms)
+Rigorous mathematical implementation and complexity analysis of foundational search, graph processing, and greedy sorting schemas.
+*   **Focus Matrix:** Time/Space Complexity Analysis • Code Profiling • Execution Optimization
+*   **Technologies:** `C` • `C++` • `Java`
 
-        .project-card ul {
-            padding-left: 20px;
-            margin: 0 0 16px 0;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-        }
+### 🌐 HackerEarth
+High-performance computational layout sandboxes dedicated to solving real-time complexity challenges under rigid execution bounds.
+*   **Focus Matrix:** Competitive Coding Assets • Advanced Arrays • Hashing Collections
+*   **Technologies:** `C` • `C++` • `Java` • `Python`
 
-        .project-card li {
-            margin-bottom: 6px;
-            line-height: 1.4;
-        }
+---
 
-        .tech-stack {
-            margin-top: auto;
-            font-size: 0.9rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.05);
-            padding-top: 12px;
-            margin-bottom: 12px;
-        }
+## 🛠️ Developer Ecosystem Matrix
 
-        .tech-stack strong {
-            color: var(--text-muted);
-        }
+| Operational Tier | Technologies & Toolchains |
+| :--- | :--- |
+| **Languages** | `C` \| `C++` \| `Java` \| `Python` |
+| **Databases** | `MySQL` (Normalized Schemas / ACID Transactions) |
+| **Workflows & DevOps** | `Git` \| `GitHub` \| `GitHub Actions` (Automated Workflows) |
+| **IDEs / Environments** | `VS Code` \| `IntelliJ IDEA` |
 
-        .focus-areas {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px;
-        }
+---
 
-        .badge {
-            background: rgba(207, 168, 107, 0.08);
-            border: 1px solid rgba(207, 168, 107, 0.25);
-            color: var(--accent-gold);
-            padding: 3px 10px;
-            border-radius: 4px;
-            font-weight: 500;
-            font-size: 0.8rem;
-            letter-spacing: 0.3px;
-        }
+## ⚙️ System Architecture Deep-Dives
 
-        /* Ecosystem Matrix Section */
-        .ecosystem-container {
-            max-width: 700px;
-            margin: 0 auto 40px auto;
-        }
+<details>
+  <summary><b>🔍 System Layout: Criminal Management System (Click to expand)</b></summary>
+  <br>
+  <ul>
+    <li><strong>Structural Framework:</strong> Architected using fully normalized database tables to enforce strict referential boundaries across criminal data sets.</li>
+    <li><strong>Data Integrity:</strong> Implements parameterized data binding routines throughout the persistent layer to insulate execution queries from code injection anomalies.</li>
+  </ul>
+</details>
 
-        .ecosystem-list {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            gap: 14px;
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
-            backdrop-filter: blur(3px);
-        }
+<details>
+  <summary><b>🏋️ Target Module Execution: Fitness Application (Click to expand)</b></summary>
+  <br>
+  <ul>
+    <li><strong>Algorithmic Matrix:</strong> Handles background mathematical telemetry computations to map user logs instantly against target calorie thresholds.</li>
+    <li><strong>Session Maintenance:</strong> Implements atomic database operations keeping active thread properties synchronized during abrupt environment dropouts.</li>
+  </ul>
+</details>
 
-        .ecosystem-list li {
-            font-size: 1rem;
-            line-height: 1.5;
-            display: flex;
-            align-items: baseline;
-        }
+---
 
-        .ecosystem-list li strong {
-            color: var(--accent-gold);
-            min-width: 180px;
-            display: inline-block;
-            letter-spacing: 0.5px;
-        }
+<p align="center">
+  <img src="https://vercel.app" alt="Yoges07S26's Git Telemetry" />
+</p>
 
-        .ecosystem-list li span {
-            color: var(--text-main);
-        }
-
-        /* Accordion Architecture Sections */
-        .architecture-section {
-            max-width: 850px;
-            margin: 0 auto;
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-        }
-
-        details {
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
-            border-radius: 8px;
-            overflow: hidden;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
-            transition: border-color 0.2s ease;
-            backdrop-filter: blur(3px);
-        }
-
-        details[open] {
-            border-color: var(--accent-gold);
-        }
-
-        summary {
-            padding: 18px 24px;
-            font-weight: 600;
-            font-size: 1.05rem;
-            cursor: pointer;
-            user-select: none;
-            background: rgba(255, 255, 255, 0.01);
-            outline: none;
-            transition: background 0.2s ease, color 0.2s ease;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            letter-spacing: 0.5px;
-        }
-
-        summary:hover {
-            background: rgba(207, 168, 107, 0.04);
-            color: var(--accent-gold);
-        }
-
-        .details-content {
-            padding: 24px;
-            border-top: 1px solid var(--card-border);
-            background: rgba(0, 0, 0, 0.25);
-            font-size: 0.95rem;
-            line-height: 1.6;
-        }
-
-        .details-content ul {
-            margin: 0;
-            padding-left: 20px;
-        }
-
-        .details-content li {
-            margin-bottom: 10px;
-        }
-
-        .details-content li:last-child {
-            margin-bottom: 0;
-        }
-
-        .details-content strong {
-            color: var(--accent-gold);
-        }
-
-        /* Footer */
-        footer {
-            text-align: center;
-            margin-top: 60px;
-            color: var(--text-muted);
-            font-size: 0.9rem;
-            letter-spacing: 0.5px;
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
-
-    <!-- Header Block -->
-    <header>
-        <div class="logo-placeholder">▲ vercel</div>
-        <p>A comprehensive showcase of foundational software applications, optimized database query models, custom architectural deep dives, and data structures.</p>
-    </header>
-
-    <hr>
-
-    <!-- Featured Projects Grid Layout -->
-    <h2>🚀 Featured Projects</h2>
-    <div class="project-grid">
-
-        <div class="project-card">
-            <div>
-                <h3>🧠 ProblemSolving</h3>
-                <p>A modular collection of algorithmic computational puzzles and foundational logical program execution flows.</p>
-            </div>
-            <div>
-                <div class="tech-stack"><strong>Technologies:</strong> C, C++, Java, Python</div>
-                <div class="focus-areas">
-                    <span class="badge">DSA</span>
-                    <span class="badge">Algorithms</span>
-                    <span class="badge">Logic</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="project-card">
-            <div>
-                <h3>🎮 GameDesign</h3>
-                <p>Game design architecture experiments focused on core rendering principles, frame execution blocks, and standalone object states.</p>
-            </div>
-            <div>
-                <div class="tech-stack"><strong>Technologies:</strong> Java</div>
-                <div class="focus-areas">
-                    <span class="badge">Game Dev</span>
-                    <span class="badge">Java</span>
-                    <span class="badge">Design</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="project-card">
-            <div>
-                <h3>🗄️ Basic-Sql</h3>
-                <p>Production-safe structured query assets built to investigate index management strategies and entity relationships.</p>
-            </div>
-            <div>
-                <div class="tech-stack"><strong>Technologies:</strong> MySQL</div>
-                <div class="focus-areas">
-</div>
-
-<!-- Global Layout Footer -->
-<footer>
-    <p>© 2026 Yoges07S26 • Built with automated vector styling components</p>
-</footer>
-
-</div>
-
-<!-- Interactive Accordion Handler Script -->
-<script>
-    // Ensures only one deep-dive panel stays expanded at a single time
-    const accordions = document.querySelectorAll('.arch-accordion');
-    accordions.forEach((acc) => {
-        acc.addEventListener('toggle', () => {
-            if (acc.open) {
-                accordions.forEach((otherAcc) => {
-                    if (otherAcc !== acc) {
-                        otherAcc.open = false;
-                    }
-                });
-            }
-        });
-    });
-</script>
-
-</body>
-</html>
+<p align="center">
+  <sub>© 2026 Yoges07S26 • Built with automated vector styling components</sub>
+</p>
