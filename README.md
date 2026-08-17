@@ -11,151 +11,68 @@ A collection of projects built while learning programming, databases, software d
 
 <hr>
 
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
+## 🚀 Featured Projects
 
-<table width="100%">
+### 🧠 ProblemSolving
+A collection of programming problems, algorithms and logical problem-solving solutions.
+*   **Technologies:** C, C++, Java, Python
+*   **Focus:** `DSA` • `Algorithms` • `Logic`
 
-<!-- ================= PROJECT 1 & 2 ================= -->
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 ProblemSolving</h3>
-<p>A collection of programming problems, algorithms and logical problem-solving solutions.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<p><b>Focus:</b> <code>DSA</code> <code>Algorithms</code> <code>Logic</code></p>
-<a href="https://github.com">
-<img src="https://shields.io">
-</a>
-</td>
+### 🎮 GameDesign
+Game development experiments and projects focused on programming, game logic and interactive design.
+*   **Technologies:** Java
+*   **Focus:** `Game Development` • `Java` • `Design`
 
-<td width="50%" valign="top">
-<h3>🎮 GameDesign</h3>
-<p>Game development experiments and projects focused on programming, game logic and interactive design.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<p><b>Focus:</b> <code>Game Development</code> <code>Java</code> <code>Design</code></p>
-<a href="https://github.com">
-<img src="https://shields.io">
-</a>
-</td>
-</tr>
+### 🗄️ Basic-Sql
+A collection of SQL queries and database concepts created while learning relational database management.
+*   **Technologies:** MySQL
+*   **Focus:** `SQL` • `MySQL` • `Database`
 
-<!-- ================= PROJECT 3 & 4 ================= -->
-<tr>
-<td width="50%" valign="top">
-<h3>🗄️ Basic-Sql</h3>
-<p>A collection of SQL queries and database concepts created while learning relational database management.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<p><b>Focus:</b> <code>SQL</code> <code>MySQL</code> <code>Database</code></p>
-<a href="https://github.com">
-<img src="https://shields.io">
-</a>
-</td>
+### 💡 LeetCode
+Programming and algorithmic problem-solving practice covering different data structures and algorithms.
+*   **Technologies:** Java, C++, Python
+*   **Focus:** `DSA` • `Algorithms` • `Problem Solving`
 
-<td width="50%" valign="top">
-<h3>💡 LeetCode</h3>
-<p>Programming and algorithmic problem-solving practice covering different data structures and algorithms.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<p><b>Focus:</b> <code>DSA</code> <code>Algorithms</code> <code>Problem Solving</code></p>
-<a href="https://github.com">
-<img src="https://shields.io">
-</a>
-</td>
-</tr>
+### 🚔 Criminal Management System
+A Java and SQL based management system designed to maintain and manage criminal records, case information and related details.
+*   **Core Systems:** Criminal record logging, case file distribution, dynamic tracking modules, integrated search query engine.
+*   **Technologies:** Java, MySQL
+*   **Focus:** `Java` • `SQL` • `MySQL` • `Database Management`
 
-<!-- ================= PROJECT 5 & 6 ================= -->
-<tr>
-<td width="50%" valign="top">
-<h3>🚔 Criminal Management System</h3>
-<p>A Java and SQL based management system designed to maintain and manage criminal records, case information and related details.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<ul>
-<li>👤 Criminal record management</li>
-<li>📁 Case management</li>
-<li>🔍 Search engine engine implementation</li>
-<li>📝 Dynamic dynamic updates</li>
-</ul>
-<p><b>Focus:</b> <code>Java</code> <code>SQL</code> <code>MySQL</code> <code>Database Management</code></p>
-<a href="#">
-<img src="https://shields.io">
-</a>
-</td>
+### 🏋️ Fitness Application
+A Java and SQL based fitness management application designed to track users, workouts, fitness activities and related information.
+*   **Core Systems:** User administration profiles, workout routine builders, fitness logging matrix, metric target goals.
+*   **Technologies:** Java, MySQL
+*   **Focus:** `Java` • `SQL` • `MySQL` • `Application Development`
 
-<td width="50%" valign="top">
-<h3>🏋️ Fitness Application</h3>
-<p>A Java and SQL based fitness management application designed to track users, workouts, fitness activities and related information.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<ul>
-<li>👤 User administration profiles</li>
-<li>🏋️ Structural workout routing</li>
-<li>📊 Advanced metrics metrics mapping</li>
-<li>🎯 Quantifiable metric goal settings</li>
-</ul>
-<p><b>Focus:</b> <code>Java</code> <code>SQL</code> <code>MySQL</code> <code>Application Development</code></p>
-<a href="#">
-<img src="https://shields.io">
-</a>
-</td>
-</tr>
+### 📊 DAA
+Design and Analysis of Algorithms implementations and algorithmic problem-solving work.
+*   **Technologies:** C, C++, Java
+*   **Focus:** `Algorithms` • `DSA` • `Optimization`
 
-<!-- ================= PROJECT 7 & 8 ================= -->
-<tr>
-<td width="50%" valign="top">
-<h3>📊 DAA</h3>
-<p>Design and Analysis of Algorithms implementations and algorithmic problem-solving work.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<p><b>Focus:</b> <code>Algorithms</code> <code>DSA</code> <code>Optimization</code></p>
-<a href="https://github.com">
-<img src="https://shields.io">
-</a>
-</td>
-
-<td width="50%" valign="top">
-<h3>🌐 HackerEarth</h3>
-<p>Programming challenges and competitive problem-solving practice.</p>
-<p><b>Technologies:</b><br>
-<img src="https://skillicons.dev"></p>
-<p><b>Focus:</b> <code>Programming</code> <code>Algorithms</code> <code>Challenges</code></p>
-<a href="https://github.com">
-<img src="https://shields.io">
-</a>
-</td>
-</tr>
-
-</table>
+### 🌐 HackerEarth
+Programming challenges and competitive problem-solving practice.
+*   **Technologies:** C, C++, Java, Python
+*   **Focus:** `Programming` • `Algorithms` • `Challenges`
 
 <hr>
 
-<!-- ================= CORE TOOLS MATRIX ================= -->
-<div align="center">
-  <h2>🛠️ Developer Ecosystem Matrix</h2>
-</div>
+## 🛠️ Developer Ecosystem Matrix
 
-| Category | Technologies & Tools Suite |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev"/> |
-| **Databases** | <img src="https://skillicons.dev"/> |
-| **DevOps & Workflows** | <img src="https://skillicons.dev"/> |
-| **Environments** | <img src="https://skillicons.dev"/> |
+*   **Languages:** C, C++, Java, Python
+*   **Databases:** MySQL
+*   **DevOps & Workflows:** Git, GitHub, GitHub Actions
+*   **Environments:** VS Code, IntelliJ IDEA
 
 <hr>
 
-<!-- ================= ADVANCED SYSTEM ARCHITECTURE TOGGLES ================= -->
-<div align="center">
-  <h2>⚙️ System Architecture Deep-Dives</h2>
-</div>
+## ⚙️ System Architecture Deep-Dives
 
 <details>
   <summary><b>🔍 System Layout: Criminal Management System</b></summary>
   <br>
   
+
 - <b>Structural Framework:</b> Designed with normalised structures handling strict relational bounds across criminal logs.
 - <b>Data Integrity:</b> Engineered parameterized statements avoiding cross-platform runtime SQL validation injection risks.
 </details>
