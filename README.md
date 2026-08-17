@@ -6,20 +6,20 @@
     <title>Developer Ecosystem Matrix - Portfolio</title>
     <style>
         :root {
-            --bg-color: #16120f;
-            --card-bg: rgba(26, 21, 18, 0.88);
-            --card-border: #42352e;
+            --bg-color: #0d0c0b;
+            --card-bg: rgba(18, 16, 15, 0.90);
+            --card-border: #3d2f28;
             --text-main: #dfd2c6;
             --text-muted: #9e8e82;
             --accent-gold: #cfa86b;
             --shadow-glow: rgba(207, 168, 107, 0.12);
-            --hdr-gradient: rgba(18, 15, 13, 0.85);
         }
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(rgba(22, 18, 15, 0.85), rgba(22, 18, 15, 0.92)), 
-                        url('https://unsplash.com') no-repeat center center fixed;
+            /* Blends the specific wallpaper link provided with a dark vignette overlay for readability */
+            background: linear-gradient(rgba(13, 12, 11, 0.82), rgba(13, 12, 11, 0.90)), 
+                        url('https://wallpapercave.com/wp/wp1870491.jpg') no-repeat center center fixed;
             background-size: cover;
             color: var(--text-main);
             margin: 0;
@@ -37,10 +37,11 @@
         header {
             text-align: center;
             margin-bottom: 40px;
-            background: rgba(0, 0, 0, 0.2);
+            background: rgba(0, 0, 0, 0.4);
             padding: 30px;
             border-radius: 12px;
-            border: 1px solid rgba(207, 168, 107, 0.1);
+            border: 1px solid rgba(207, 168, 107, 0.15);
+            backdrop-filter: blur(4px);
         }
 
         .logo-placeholder {
@@ -53,10 +54,6 @@
             align-items: center;
             gap: 12px;
             margin-bottom: 15px;
-        }
-
-        .logo-placeholder span {
-            color: var(--accent-gold);
         }
 
         header p {
@@ -81,7 +78,7 @@
             letter-spacing: 1.5px;
             margin-bottom: 30px;
             color: #ffffff;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+            text-shadow: 0 2px 4px rgba(0,0,0,0.7);
         }
 
         /* Featured Projects Grid */
@@ -97,17 +94,18 @@
             border: 1px solid var(--card-border);
             border-radius: 8px;
             padding: 24px;
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5), inset 0 0 20px var(--shadow-glow);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6), inset 0 0 20px var(--shadow-glow);
             transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            backdrop-filter: blur(3px);
         }
 
         .project-card:hover {
             transform: translateY(-4px);
             border-color: var(--accent-gold);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6), 0 0 15px rgba(207, 168, 107, 0.2);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7), 0 0 15px rgba(207, 168, 107, 0.25);
         }
 
         .project-card h3 {
@@ -184,7 +182,8 @@
             border: 1px solid var(--card-border);
             padding: 30px;
             border-radius: 8px;
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(3px);
         }
 
         .ecosystem-list li {
@@ -219,8 +218,9 @@
             border: 1px solid var(--card-border);
             border-radius: 8px;
             overflow: hidden;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
             transition: border-color 0.2s ease;
+            backdrop-filter: blur(3px);
         }
 
         details[open] {
@@ -247,11 +247,10 @@
             color: var(--accent-gold);
         }
 
-        /* Smooth reveal layout */
         .details-content {
             padding: 24px;
             border-top: 1px solid var(--card-border);
-            background: rgba(0, 0, 0, 0.15);
+            background: rgba(0, 0, 0, 0.25);
             font-size: 0.95rem;
             line-height: 1.6;
         }
@@ -299,7 +298,6 @@
     <h2>🚀 Featured Projects</h2>
     <div class="project-grid">
 
-        <!-- Card 1 -->
         <div class="project-card">
             <div>
                 <h3>🧠 ProblemSolving</h3>
@@ -315,7 +313,6 @@
             </div>
         </div>
 
-        <!-- Card 2 -->
         <div class="project-card">
             <div>
                 <h3>🎮 GameDesign</h3>
@@ -331,7 +328,6 @@
             </div>
         </div>
 
-        <!-- Card 3 -->
         <div class="project-card">
             <div>
                 <h3>🗄️ Basic-Sql</h3>
@@ -340,51 +336,12 @@
             <div>
                 <div class="tech-stack"><strong>Technologies:</strong> MySQL</div>
                 <div class="focus-areas">
-        <!-- Card 8 (HackerEarth) Closing Block Wrapper -->
-        </div>
-    </div>
+</div>
 
-    <!-- Developer Ecosystem Matrix Segment -->
-    <h2>🛠️ Developer Ecosystem Matrix</h2>
-    <div class="ecosystem-container">
-        <ul class="ecosystem-list">
-            <li><strong>Languages:</strong> <span>C, C++, Java, Python</span></li>
-            <li><strong>Databases:</strong> <span>MySQL</span></li>
-            <li><strong>DevOps & Workflows:</strong> <span>Git, GitHub, GitHub Actions</span></li>
-            <li><strong>Environments:</strong> <span>VS Code, IntelliJ IDEA</span></li>
-        </ul>
-    </div>
-
-    <!-- System Architecture Accordion Expansion Blocks -->
-    <h2>⚙️ System Architecture Deep-Dives</h2>
-    <div class="architecture-section">
-
-        <details class="arch-accordion">
-            <summary>🔍 System Layout: Criminal Management System</summary>
-            <div class="details-content">
-                <ul>
-                    <li><strong>Structural Framework:</strong> Designed with completely normalized tables ensuring strict relational integrity constraints across active incident tables.</li>
-                    <li><strong>Data Integrity:</strong> Engineered parameterized statements throughout execution flows to securely isolate operational inputs from structural query mutations.</li>
-                </ul>
-            </div>
-        </details>
-
-        <details class="arch-accordion">
-            <summary>🏋️ Target Module Execution: Fitness Application</summary>
-            <div class="details-content">
-                <ul>
-                    <li><strong>Algorithmic Matrix:</strong> Real-time asynchronous math computations comparing custom biometric metrics against active calorie targets.</li>
-                    <li><strong>Session Maintenance:</strong> Implements thread-isolated transactional rules keeping state parameters consistent during sudden disconnects.</li>
-                </ul>
-            </div>
-        </details>
-
-    </div>
-
-    <!-- Global Layout Footer -->
-    <footer>
-        <p>© 2026 Yoges07S26 • Built with automated vector styling components</p>
-    </footer>
+<!-- Global Layout Footer -->
+<footer>
+    <p>© 2026 Yoges07S26 • Built with automated vector styling components</p>
+</footer>
 
 </div>
 
