@@ -1,110 +1,21 @@
-#  Yoges07S26 | Software Developer
+# 💫 About Me:
+🔭 I’m currently working on building my first full-stack web application.<br>👯 I’m looking to collaborate on open-source web development projects.<br>🤝 I’m looking for help with mastering advanced CSS layouts and design systems.<br>🌱 I’m currently learning Java and TypeScript.<br>💬 Ask me about my favorite programming languages, productivity hacks, or tech blogs.<br>⚡ Fun fact I can successfully cook a perfect meal without following a recipe!
 
-<p align="center">
-  <img src="https://wallpapercave.com" width="100%" alt="Assassin's Creed Landscape Layout" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.7);" />
-</p>
 
-<p align="center">
-  <strong>A comprehensive development matrix exploring core application frameworks, optimized database schemas, and clean architectural design patterns.</strong>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__i.am.yoges__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ponyogeswaran@gmail.com) 
 
-<p align="center">
-  <a href="https://github.com"><img src="https://shields.io" alt="Workspace Status" /></a>
-  <img src="https://shields.io" alt="Ecosystem Matrix" />
-  <img src="https://shields.io" alt="Current Deployment" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yoges07S26&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yoges07S26&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yoges07S26&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 ProblemSolving
-A modular collection of algorithmic computational puzzles and foundational logical program execution flows.
-*   **Focus Matrix:** Data Structures (DSA) • Algorithms • Execution Logic
-*   **Technologies:** `C` • `C++` • `Java` • `Python`
-
-### 🎮 GameDesign
-Game design architecture experiments focused on core rendering principles, frame execution blocks, and standalone object states.
-*   **Focus Matrix:** Game Loop Design • Object-Oriented Frameworks • Interaction Loops
-*   **Technologies:** `Java`
-
-### 🗄️ Basic-Sql
-Production-safe structured query assets built to investigate index management strategies, transactional joins, and data normalization.
-*   **Focus Matrix:** Query Tuning • Indexing Blueprints • Schema Architecture
-*   **Technologies:** `MySQL`
-
-### 💡 LeetCode
-An ongoing structural benchmark repository targeting clean algorithmic runtime profiles, memory efficiency boundaries, and defensive edge-case testing.
-*   **Focus Matrix:** Competitive Optimization • Data Structures • Micro-Optimizations
-*   **Technologies:** `Java` • `C++` • `Python`
-
-### 🚔 Criminal Management System
-An enterprise-inspired record tracking application engineered to safely isolate, index, and secure operational records.
-*   **Core Pipelines:** 
-    * 📂 Criminal history lifecycle logs
-    * 📑 Automatic case distribution queues
-    * 🔄 Dynamic case workflow modules
-    * 🔍 Parameterized secure query searching
-*   **Technologies:** `Java` • `MySQL`
-
-### 🏋️ Fitness Application
-A comprehensive workout telemetry logger built to analyze and validate real-time activity tracking modules.
-*   **Core Pipelines:**
-    * 👤 User registration & profile matrices
-    * ⚡ Real-time activity tracking blocks
-    * 🔥 Caloric boundary threshold verification
-    * 🎯 Target performance metrics validation
-*   **Technologies:** `Java` • `MySQL`
-
-### 📊 DAA (Design & Analysis of Algorithms)
-Rigorous mathematical implementation and complexity analysis of foundational search, graph processing, and greedy sorting schemas.
-*   **Focus Matrix:** Time/Space Complexity Analysis • Code Profiling • Execution Optimization
-*   **Technologies:** `C` • `C++` • `Java`
-
-### 🌐 HackerEarth
-High-performance computational layout sandboxes dedicated to solving real-time complexity challenges under rigid execution bounds.
-*   **Focus Matrix:** Competitive Coding Assets • Advanced Arrays • Hashing Collections
-*   **Technologies:** `C` • `C++` • `Java` • `Python`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yoges07S26&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Yoges07S26&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 🛠️ Developer Ecosystem Matrix
-
-| Operational Tier | Technologies & Toolchains |
-| :--- | :--- |
-| **Languages** | `C` \| `C++` \| `Java` \| `Python` |
-| **Databases** | `MySQL` (Normalized Schemas / ACID Transactions) |
-| **Workflows & DevOps** | `Git` \| `GitHub` \| `GitHub Actions` (Automated Workflows) |
-| **IDEs / Environments** | `VS Code` \| `IntelliJ IDEA` |
-
----
-
-## ⚙️ System Architecture Deep-Dives
-
-<details>
-  <summary><b>🔍 System Layout: Criminal Management System (Click to expand)</b></summary>
-  <br>
-  <ul>
-    <li><strong>Structural Framework:</strong> Architected using fully normalized database tables to enforce strict referential boundaries across criminal data sets.</li>
-    <li><strong>Data Integrity:</strong> Implements parameterized data binding routines throughout the persistent layer to insulate execution queries from code injection anomalies.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🏋️ Target Module Execution: Fitness Application (Click to expand)</b></summary>
-  <br>
-  <ul>
-    <li><strong>Algorithmic Matrix:</strong> Handles background mathematical telemetry computations to map user logs instantly against target calorie thresholds.</li>
-    <li><strong>Session Maintenance:</strong> Implements atomic database operations keeping active thread properties synchronized during abrupt environment dropouts.</li>
-  </ul>
-</details>
-
----
-
-<p align="center">
-  <img src="https://vercel.app" alt="Yoges07S26's Git Telemetry" />
-</p>
-
-<p align="center">
-  <sub>© 2026 Yoges07S26 • Built with automated vector styling components</sub>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
